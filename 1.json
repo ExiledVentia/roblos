@@ -1,0 +1,30 @@
+{
+  "title": "1",
+  "description": "test1",
+  "artist": "idk",
+  "author": "OzzyVei",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1652104911",
+      "groups": {
+        "": [
+          "https://imgur.com/a/XfYgWvF",
+          "https://imgur.com/a/XfYgWvF"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1652104953",
+      "groups": {
+        "": [
+          "https://imgur.com/a/XfYgWvF"
+        ]
+      }
+    }
+  }
+}
